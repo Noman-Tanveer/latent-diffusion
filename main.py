@@ -1,3 +1,5 @@
+# python main.py --base configs/latent-diffusion/lsun_churches-ldm-kl-8.yaml -t --gpus 1
+
 import argparse, os, sys, datetime, glob, importlib, csv
 import numpy as np
 import time
